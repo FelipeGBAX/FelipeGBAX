@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Felipe G. Barbosa de Andrade, tenho 20 anos e sou natural de Santa rita d Cassia. Sou estudante do 3º ano do ensino médio, no curso Técnico em Informática no **IFBA - Instituto Federal de Educação Ciência e Tecnologia da Bahia**. Instagram, com o perfil chamado "[FelipeGBAX](https://www.instagram.com/dev_em_dev/)".
+Me chamo Felipe G. Barbosa de Andrade, tenho 20 anos e sou natural de Santa rita d Cassia. Sou estudante do 3º ano do ensino médio, no curso Técnico em Informática no **IFBA - Instituto Federal de Educação Ciência e Tecnologia da Bahia**.
 
 <a href="https://www.linkedin.com/in/felipe-andrade-71a793367/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
